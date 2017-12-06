@@ -1,0 +1,6 @@
+framework module Pods_BearBids {
+  umbrella header "Pods-BearBids-umbrella.h"
+
+  export *
+  module * { export * }
+}
